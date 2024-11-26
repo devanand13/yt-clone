@@ -1,0 +1,306 @@
+import { VideoCard } from "./VideoCard"
+
+const videos = [{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+},
+{
+    title:"How to make very good thumbnails",
+    videoImage:"images.jpeg",
+    channel:"Heiniken",
+    channelImage:"images.jpeg",
+    viewsL:"46 M",
+    updloadtime: "13 days ago",
+}]
+
+
+export function VideoGrid(){
+    
+
+    return <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {videos.map(video =><div>
+                <VideoCard 
+                    title={video.title}
+                    videoImage = {video.videoImage}
+                    channel = {video.channel}
+                    channelImage = {video.channelImage}
+                    views = {video.viewsL}
+                    updloadtime = {video.updloadtime}
+                >
+                </VideoCard>
+                
+        </div> 
+    )}
+    </div>
+}
